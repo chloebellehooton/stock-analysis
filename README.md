@@ -75,9 +75,6 @@ The run time was dramatically improved when I refactored the code, as seen in th
 ![2018 Run Time, Original Code](https://github.com/chloebellehooton/stock-analysis/blob/main/Green_Stocks_2018.png)
 
 ## Summary
-Summary: In a summary statement, address the following questions.
-What are the advantages or disadvantages of refactoring code?
-How do these pros and cons apply to refactoring the original VBA script?
 
 There is a detailed statement on the advantages and disadvantages of refactoring code in general (3 pt).
 There is a detailed statement on the advantages and disadvantages of the original and refactored VBA script (3 pt).
